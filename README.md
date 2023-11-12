@@ -1,4 +1,4 @@
-# Auto-Clicker---Shiro
+# Auto-Clicker
 - A minimal spam clicking program
 - All it does is click repeatedly in two different locations
 - Has a console and GUI version
